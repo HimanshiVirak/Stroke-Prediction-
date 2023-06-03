@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Assignment Details
-# <hr style="border:1px solid black"> </hr>
-# 
-# **Module Code: CSMAI21**
-# <br>**Assignment Report Title:Artificial Intelligence and Machine Learning**
-# <br>**Student Number:30852881**
-# <br>**Date (when work was completed): 8th March 2023**
-# <br>**Actual hours spent on assignment: 20 hours**
-# <hr style="border:1px solid black"> </hr>
-
 # In[1]:
 
 #Importing Libraries
